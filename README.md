@@ -1,11 +1,11 @@
-# SuperQbit
+# SuperQbit - Salesforce Trailhead Public API and UI ScoreCard
 
-## Salesforce Trailhead ScoreCard
+## Salesforce Trailhead Public API and UI ScoreCard
 Salesforce Trailhead Scorecard and JSON data
 
 Get your username from trailhead profile page URL which would look something like this https://trailhead.salesforce.com/me/{TrailheadUserName}
 
-use the following URL for JSON data
+use the following URL for Salesforce Trailhead Public API data
 ```
 https://api-superqbit.herokuapp.com/salesforce/TrailheadJSON/{TrailheadUserName}
 ```
@@ -13,6 +13,11 @@ https://api-superqbit.herokuapp.com/salesforce/TrailheadJSON/{TrailheadUserName}
 use the following URL for Score Card
 ```
 https://api-superqbit.herokuapp.com/salesforce/TrailheadCard/{TrailheadUserName}
+```
+
+use the following URL for Complete Salesforce Trailhead Profile
+```
+https://api-superqbit.herokuapp.com/salesforce/TrailheadProfile/{TrailheadUserName}
 ```
 
 To get embed the scorecard in your own website
