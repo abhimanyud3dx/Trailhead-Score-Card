@@ -6,6 +6,8 @@ Salesforce Trailhead Scorecard and JSON data
 Get your username from trailhead profile page URL which would look something like this
 https://trailhead.salesforce.com/me/{TrailheadId}
 
+![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailheadProfile.png)
+
 use the following URL for Salesforce Trailhead Public API data
 ```
 https://api-superqbit.herokuapp.com/salesforce/TrailheadJSON/{TrailheadId}
