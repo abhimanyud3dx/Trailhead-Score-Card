@@ -1,5 +1,7 @@
 # SuperQbit - Salesforce Trailhead Public API and UI ScoreCard
 
+
+![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailhead_Badge.png)
 ## Salesforce Trailhead Public API and UI ScoreCard
 Salesforce Trailhead Scorecard and JSON data
 
