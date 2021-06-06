@@ -1,4 +1,4 @@
-# SuperQbit - Salesforce Trailhead Public API and UI ScoreCard
+# SuperQbit - Salesforce Trailhead Public API and UI ScoreCard - Updated 2021
 
 
 ![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailhead_Badge.png)
@@ -12,17 +12,12 @@ https://trailhead.salesforce.com/me/{TrailheadId}
 
 use the following URL for Salesforce Trailhead Public API data
 ```
-https://api-superqbit.herokuapp.com/salesforce/TrailheadJSON/{TrailheadId}
+https://superqbit.herokuapp.com/api/v1/trailhead/{TrailheadUserId}
 ```
 
 use the following URL for Score Card
 ```
-https://api-superqbit.herokuapp.com/salesforce/TrailheadCard/{TrailheadId}
-```
-
-use the following URL for Complete Salesforce Trailhead Profile
-```
-https://api-superqbit.herokuapp.com/salesforce/TrailheadProfile/{TrailheadId}
+https://superqbit.herokuapp.com/TrailheadCard/{TrailheadId}
 ```
 
 To get embed the scorecard in your own website
