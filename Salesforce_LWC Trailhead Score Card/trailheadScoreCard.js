@@ -6,6 +6,6 @@ import {
 export default class TrailheadScoreCard extends LightningElement {
     @api t_username = 'TEST';
     get trailScoreCardLink() {
-        return 'https://api-superqbit.herokuapp.com/salesforce/TrailheadCard/' + this.t_username;
+        return 'https://superqbit.herokuapp.com/trailhead?uid=' + this.t_username;
     }
 }

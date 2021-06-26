@@ -22,7 +22,7 @@ https://superqbit.herokuapp.com/TrailheadCard/{TrailheadId}
 
 To get embed the scorecard in your own website
 ```
-<iframe src="https://api-superqbit.herokuapp.com/salesforce/TrailheadCard/{TrailheadId}" style="border:none;overflow:hidden;" width="100%" height="350px" scrolling="no"></iframe>
+<iframe src="https://superqbit.herokuapp.com/trailhead?uid={TrailheadId}" style="border:none;overflow:hidden;" width="100%" height="350px" scrolling="no"></iframe>
 ```
 
 
