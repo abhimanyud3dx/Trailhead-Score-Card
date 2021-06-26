@@ -18,12 +18,12 @@ https://www.superqbit.com/trailhead?name=abhimanyudx
 
 3. use the following URL for Salesforce Trailhead Public API data
 ```
-https://superqbit.herokuapp.com/api/v1/trailhead/005........
+https://superqbit.com/api/v1/trailhead/005........
 ```
 
 4. use the following URL for Score Card
 ```
-https://superqbit.herokuapp.com/Trailhead?uid=005........&type=a&size=150
+https://superqbit.com/trailhead?uid=005........&type=a&size=150
 ```
 Type Parameter
 ```
@@ -43,7 +43,7 @@ Size Parameter is the size for Certificate image size in Pixels.
 
 5. To get embed the scorecard in your own website, you can use Embed Iframe Url
 ```
-<iframe src="https://superqbit.herokuapp.com/trailhead?uid={TrailheadId}&type=c12" style="border:none;overflow:hidden;" width="100%" height="350px" scrolling="no"></iframe>
+<iframe src="https://superqbit.com/trailhead?uid={TrailheadId}&type=c12" style="border:none;overflow:hidden;" width="100%" height="350px" scrolling="no"></iframe>
 ```
 
 
