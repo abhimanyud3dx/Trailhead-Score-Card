@@ -1,20 +1,20 @@
 # SuperQbit - Salesforce Trailhead Public API and UI ScoreCard - Updated 2021
 
 
-![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailhead_Badge.png)
+![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/wp-scorecard-widget-for-salesforce-trailhead/assets/screenshot-1.png)
 ## Salesforce Trailhead and Certifications Public API and UI ScoreCard
 Salesforce Trailhead Scorecard and JSON data
 
 1. Get your username from trailhead profile page URL which would look something like this
-https://trailhead.salesforce.com/me/{TrailheadId}
+https://trailblazer.me/id/{username}
 
-![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailheadProfile.png)
+![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/wp-scorecard-widget-for-salesforce-trailhead/assets/screenshot-2.png)
 
 2. Get your Trailhead Id from this url, pass your trailhead username in the paramater, example:
 ```
 https://www.superqbit.com/trailhead?name=abhimanyudx
 ```
-![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailhead-Username-To-Id.png)
+![alt text](https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/wp-scorecard-widget-for-salesforce-trailhead/assets/screenshot-3.png)
 
 3. use the following URL for Salesforce Trailhead Public API data
 ```
