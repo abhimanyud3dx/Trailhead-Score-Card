@@ -61,10 +61,7 @@ class SF_Trailhead_Scorecard_Widget extends WP_Widget {
 		</p>
 
 
-
-
-		<?php echo 'Get your Trailhead Id from your public trailhead profile page URL which would look something like this
-		<a href="https://raw.githubusercontent.com/abhimanyud3dx/Trailhead-Score-Card/master/Screenshots/trailheadProfile.png" target="blank">https://trailhead.salesforce.com/me/<strong>{TrailheadId}</strong></a>. Makse sure your profile is public.<br/>'; ?>
+		<?php echo ' To get your Trailhead Id, read https://github.com/abhimanyud3dx/Trailhead-Score-Card'; ?>
 
 	<?php }
 	// Update widget settings

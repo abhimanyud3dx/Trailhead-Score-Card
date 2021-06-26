@@ -17,7 +17,7 @@ Display a Salesforce Trialhead Scores and Certification as a widgets in Wordpres
 	
 == Description ==
 
-Plugin that gives you the ability to add a Widget in which you can see your Salesforce Trailhead Badges count, points and trails score in the realtime. A must plugin to have for salesforce bloggers. Setup by just setting the trailhead Id from your public Trailhead Profile. 
+Plugin that gives you the ability to add a Widget in which you can see your Salesforce Trailhead Badges count, points , trails score, Certifications in realtime. A must plugin to have for salesforce bloggers. Setup by just setting the trailhead Id from your public Trailhead Profile. 
 
 
 ## Available hooks
@@ -33,7 +33,7 @@ Plugin that gives you the ability to add a Widget in which you can see your Sale
 2. Make sure your profile is public.
 3. open the below link and provide your Username in URL like this
     https://www.superqbit.com/trailhead/?name=abhimanyudx
-4. Copy and paste this 18 digit trailhead Id of your for plugin setup.
+4. Copy and paste this 18 digit trailhead Id that you see on the page to your for plugin setup.
 
 After installing and activating the plugin, heads to the `Apprearance > Widgets` page.
 From there, you can add the widget to desired sidebar, enter the Trailhead Id you recorded in first step and click save.
@@ -41,7 +41,9 @@ From there, you can add the widget to desired sidebar, enter the Trailhead Id yo
 == Screenshots ==
 
 1. This is how the badge is going to look.
-2. This is how your Trailhead Id looks like, please make sure that your profile is public or else the plugin will show error for same.
+2. This is how can get your Trailherd Username, copy this username and paste it at the end of this url https://www.superqbit.com/trailhead/?name=
+3. Open the URL and this is how your Trailhead Id looks like.
+4. Paste this Id in your plugin settings for the Widget to show correct data.
 	 
 == Changelog ==
  
